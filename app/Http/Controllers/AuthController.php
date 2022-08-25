@@ -76,6 +76,6 @@ class AuthController extends Controller
 
     }
     public function reset_password(){
-
+      return "succefully pasword rest";
     }
 }
