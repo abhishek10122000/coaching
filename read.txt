@@ -1,0 +1,43 @@
+Apply for Addmission
+    Name
+    Mother Name
+    Father Name
+    Contact
+    Email
+    Education
+    Date of Birth
+    dd-mm-yyyy
+    Gender
+    Address
+
+
+user  
+ 1.Contact
+ 2.Email
+ 3.password
+ 4.Name
+
+
+student
+ 1.id
+ 2.user_id
+ 3
+ 4.Mother Name
+ 5.Father Name
+ 6.Education
+ 7.dob
+ 8.Gender
+    Address
+
+
+
+who can login?
+ 1.admin can login
+ 1.student can login
+
+
+admin can access all records
+
+but
+
+student can access  only 
